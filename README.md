@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msobreira27
+- 👋 Hi, I’m Mauro @msobreira27
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning PYthon and Machine Learning
 - 💞️ I’m looking to collaborate on HealthCare & Datascience
